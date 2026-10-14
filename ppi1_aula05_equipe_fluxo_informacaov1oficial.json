@@ -1,0 +1,52 @@
+{
+  "schema": "ppi-f01-v3",
+  "identificacao": {
+    "instituicao": "Instituto Federal do Maranhão — Campus Itapecuru-Mirim",
+    "curso": "Técnico em Informática Integrado ao Ensino Médio",
+    "disciplina": "Prática Profissional Integrada I — PPI I",
+    "professor": "Prof. Dr. Thales Levi Azevedo Valente",
+    "componentes": [
+      "GUSTAVO MACEDO DO NASCIMENTO",
+      "EMILY RIHANE LINDOSO",
+      "HANNA BEATRIZ OLIVEIRA SANTOS",
+      "Hellen Eduarda Rodrigues da Paixão",
+      "Luís Felipe de Araújo Bezerra"
+    ],
+    "projeto": "permanencia",
+    "data": "2026-10-12"
+  },
+  "caso": "permanencia",
+  "campos": {
+    "equipe": "",
+    "recorte": "A equipe está investigando a falta de clareza, organização e controle das informações escolares, que dificulta a identificação e o acompanhamento de estudantes em risco de evasão ou abandono escolar. O problema envolve a dificuldade dos gestores em acessar e analisar dados de maneira centralizada, organizada e eficiente.",
+    "origem1": "A origem é um sistema acadêmico(Siga/Acre/SIGE )",
+    "info1": "turmas  ou escolas com risco de evasão escolar( sem expor ninguém) para alerta de infrequência crônica ou risco de abandono escolar, informações de renda, pais e etc.",
+    "canal1": "Painel digital (Dashboard) de monitoramento da coordenação pedagógica ou relatório de alertas do sistema.",
+    "destino1": "Ficha FICAI (Ficha de Aluno Infrequente) ou Módulo de Busca Ativa do sistema.",
+    "uso1": "Planejar e começar uma ação de Busca Ativa para identificar o motivo da faltas do estudante e garantir que ele continue indo às aulas.",
+    "origem2": "Banco de dados unificado do projeto (dados já extraídos dos sistemas escolares).",
+    "info2": "Estatísticas compiladas, gráficos de linhas de tendência de faltas e mapas de calor de turmas críticas.",
+    "canal2": "Interface Web / Componentes visuais do Dashboard em tempo real.",
+    "destino2": "Tela de navegação do Diretor Geral, Pedagogos e Gestores Oficiais",
+    "uso2": "Permitir que a gestão visualize de forma macro (geral) e micro (por turma) quais setores precisam de intervenção imediata ou redirecionamento de recursos pedagógicos.",
+    "fonte": "sistema acadêmico(Siga/Acre/SIGE )",
+    "evidencia": "o projeto pode analisar os sistemas academicos para verificar informações.",
+    "limite": "se o aluno voltou a frequentar a escola ou se os diretores ou organizadores se preocuparam",
+    "pergunta": "Como o sistema pode receber informações se as acões foram tomadas? será que algum retorno dos diretores?",
+    "forca": "Revisão ainda não realizada",
+    "ajuste": "Revisão ainda não realizada",
+    "tarefa": "Analisar as possibilidades do sistema e como vai funcionar na prática",
+    "responsavel": "Gustavo compara os materiais (o resumo e a tabela) e Felipe confere a anotação final.",
+    "quando": "Ainda não foi combinado.",
+    "pronto": "Estará pronto quando a comparação indicar claramente o que já possui fonte validada na tabela e quais informações ainda dependem de confirmação.",
+    "registro": "Uma comparação escrita contendo os nomes dos materiais analisados e a lista de perguntas sobre o período que ainda faltam responder."
+  },
+  "revisao": [
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "estado": "A fazer"
+}
